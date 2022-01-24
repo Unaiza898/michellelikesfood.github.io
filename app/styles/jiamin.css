@@ -190,6 +190,8 @@
     right:10px;
   }
 
+
+/*   <!-- Read More Button Start Here --> */
   #more {display: none;}
   #more1 {display: none;}
   #more2 {display: none;}
@@ -235,3 +237,5 @@
     background-color: #0064bd;
     box-shadow: none;
   }
+
+  /* <!-- Read More Button Start Here --> */
