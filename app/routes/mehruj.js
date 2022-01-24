@@ -1,4 +1,4 @@
-import Route from '@ember/routing/route';
+import Route from "@ember/routing/route";
 
 /**
  * Please fill out as needed
@@ -6,5 +6,5 @@ import Route from '@ember/routing/route';
 export default Route.extend({
   model() {
     return {};
-  }
+  },
 });
